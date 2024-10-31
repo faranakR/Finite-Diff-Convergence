@@ -1,6 +1,6 @@
 # Finite Difference Methods and Convergence Analysis
 
-This repository contains numerical implementations and analysis of Finite Difference Methods (FDM) for Partial Differential Equations.
+This repository contains numerical implementations and analysis of Explicit-Central-Differencing and Cranck-Nicolson for PDEs.
 
 ## Contents
 
